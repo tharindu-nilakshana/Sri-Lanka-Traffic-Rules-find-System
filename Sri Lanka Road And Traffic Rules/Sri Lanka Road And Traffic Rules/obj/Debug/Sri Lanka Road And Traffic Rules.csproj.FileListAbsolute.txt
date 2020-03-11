@@ -1,0 +1,17 @@
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\obj\Debug\Sri_Lanka_Road_And_Traffic_Rules.AboutUs.resources
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\obj\Debug\Sri_Lanka_Road_And_Traffic_Rules.AddDetailscs.resources
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\obj\Debug\Sri_Lanka_Road_And_Traffic_Rules.Form1.resources
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\obj\Debug\Sri_Lanka_Road_And_Traffic_Rules.Home.resources
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\obj\Debug\Sri_Lanka_Road_And_Traffic_Rules.RulesForm.resources
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\obj\Debug\Sri_Lanka_Road_And_Traffic_Rules.Properties.Resources.resources
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\obj\Debug\Sri_Lanka_Road_And_Traffic_Rules.Welcome_Form.resources
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\obj\Debug\Sri Lanka Road And Traffic Rules.csproj.GenerateResource.cache
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\obj\Debug\Sri Lanka Road And Traffic Rules.csproj.CoreCompileInputs.cache
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\bin\Debug\Rules.mdf
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\bin\Debug\Rules_log.ldf
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\bin\Debug\Sri Lanka Road And Traffic Rules.exe.config
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\bin\Debug\Sri Lanka Road And Traffic Rules.exe
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\bin\Debug\Sri Lanka Road And Traffic Rules.pdb
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\obj\Debug\Sri Lanka Road And Traffic Rules.exe
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\obj\Debug\Sri Lanka Road And Traffic Rules.pdb
+E:\UOVT\UVT lectures\Semester 3\Visual Programming 2\Practical\Week 05\Sri Lanka Road And Traffic Rules\Sri Lanka Road And Traffic Rules\obj\Debug\Sri Lanka Road And Traffic Rules.csprojAssemblyReference.cache
